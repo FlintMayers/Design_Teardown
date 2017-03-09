@@ -1,0 +1,102 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  box-sizing: border-box;
+}
+
+body {
+  width: 100%;
+  height: 950px;
+  margin: 10px auto 0 auto;
+}
+
+nav {
+  width: 10%;
+  background-color: purple;
+  height: 100%;
+  float: left;
+}
+
+.banner {
+  width: 100%;
+  height: 10%;
+  background-color: brown;
+}
+
+.ul {
+  width: 100%;
+  height: 50%;
+  background-color: pink;
+}
+
+section {
+  width: 65.6%;
+  height: 100%;
+  float: left;
+  background-color: yellow;
+  margin-top: 5%;
+}
+
+aside {
+  /*width: 23.84%;*/
+  width: 22.8%;
+  height: 100%;
+  float: right;
+  background-color: pink;
+}
+
+aside .side {
+  width: 100%;
+  height: 25%;
+  background-color: yellow;
+  margin-bottom: 5%;
+}
+
+.index {
+  background-color: orange;
+  float: left;
+  width: 22%;
+  height: 100%;
+}
+
+.menu {
+  background-color: #666;
+  width: 100%;
+  height: 18%;
+  margin-bottom: 8%;
+}
+
+.main {
+  background-color: green;
+  float: left;
+  width: 60.8%;
+  height: 100%;
+  margin: 0 8.6%;;
+}
+
+.title {
+  height: 10%;
+  background-color: grey;
+}
+
+.metadata {
+  height: 20%;
+  background-color: black;
+}
+
+.p {
+  height: 20%;
+  background-color: violet;
+}
+
+.imgdiv {
+  height: 30%;
+  background-color: red;
+}
+
+.img {
+  width: 63%;
+  height: 100%;
+  background-color: gray;
+}
